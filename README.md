@@ -1,5 +1,3 @@
-# chat-server
-
 # Chat Server
 
 Python の `socket` と `threading` を使って作成した、シンプルな CUI チャットアプリです。  
